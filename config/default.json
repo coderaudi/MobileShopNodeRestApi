@@ -1,0 +1,5 @@
+{
+
+    "dbconn" : "mongodb+srv://root:root@cluster0-aronb.mongodb.net/MobileShop?retryWrites=true"
+
+}
