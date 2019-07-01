@@ -26,8 +26,7 @@ const mobileSchema = new mongoose.Schema({
         camera_specifications: { type: String, lowercase: true, trim: true  , required : true},
         ram: { type : Number , required : true},
         isDiscountAvailable: {type :Boolean , required : true},
-        imageUrl: {type : String , required : true},
-        modelYr :""
+        imageUrl: {type : String , required : true}
 
 })
 
